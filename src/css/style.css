@@ -1,0 +1,70 @@
+#right_frame {
+	background-color: #e5e5e5;
+	width: 202px;
+	float:left;
+
+/* 	height:100%; */
+/* 	_overflow:auto; */
+}
+
+table{
+	font-family: Meiryo, "Hiragino Kaku Gothic Pro", "MS PGothic", Verdana, sans-serif;
+	background-color: #CDCDCD;
+	margin:0px 0px;
+	font-size: 9.5pt;
+	border: solid #000 1px;
+	width:600px;
+;
+
+}
+
+#footer { 
+height: 2em; margin: 0; padding: 1em; 
+text-align: center; 
+  background: #c34500;  color: #D4E6F4;
+  position:absolute;
+  bottom:0;
+}
+#left_frame {
+	background-color: #e5e5e5;
+	float:left;
+	height:1000px; 
+/* 	position:absolute; */
+	width: 202px;
+
+}
+#sele{
+
+}
+ul#menu,ul.sub_menu,ul.sub_menu0 {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.element li{
+	font-size: 15pt;
+}
+.main_menu,.top_menu {
+	background: #4169e1;
+	color: #ffffff;
+	font-size: 16pt;
+	padding: 1px 5px 0px 5px;
+	margin: -1px 0 0 -1px;
+	cursor: pointer;
+	width: 190px;
+	height: auto;
+	border: 1px solid #e5e5e5;
+}
+.sub_menu li,.sub_menu0 li {
+	background: #191970;
+	padding: 1px 5px 0px 10px;
+	border: 1px solid #e5e5e5;
+	color: #ffffff;
+	font-size: 12pt;
+	width: 185px;
+	height: auto;
+	margin: -1px 0 0 -1px;
+}
+a{
+	text-decoration: none;
+}
